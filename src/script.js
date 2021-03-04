@@ -276,11 +276,11 @@ scene.add(floor)
  * Lights
  */
 // Ambient light
-const ambientLight = new THREE.AmbientLight('#ffffff', 0.5)
+const ambientLight = new THREE.AmbientLight('#ffffff', 0.7)
 scene.add(ambientLight)
 
 // Directional light
-const sunLight = new THREE.DirectionalLight('#ffffff', 0.6)
+const sunLight = new THREE.DirectionalLight('#ffffff', 0.5)
 sunLight.position.set(1, 5, 2)
 scene.add(sunLight)
 
