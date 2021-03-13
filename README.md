@@ -3,7 +3,7 @@
 #### Three.js scene with cannon.js to add physics and interaction. Control the car with your arrow keys to drive around and knock over stuff.
 
 
-A hosted version of the app is here: [3dcar-taylornicole906.netlify.app](https://3dcar-taylornicole906.netlify.app/)
+It is hosted here: [taylor-abbott.dev](https://taylor-abbott.dev/)
 
 
 
